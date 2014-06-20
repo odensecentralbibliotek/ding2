@@ -23,4 +23,33 @@ dependencies[] = ding_frontpage
 dependencies[] = ding_library_menu
 dependencies[] = ding_news
 
+; oc features
+dependencies[] = print
+dependencies[] = search_config
+dependencies[] = admin_menu
+dependencies[] = oc_cookie
+dependencies[] = oc_maps
+dependencies[] = taxonomy_terms
+dependencies[] = ding_tabroll
+dependencies[] = redirect
+dependencies[] = finurlig_widget
+dependencies[] = menu_rules
+dependencies[] = taxonomy_menu
+dependencies[] = taxonomy_menu_trails
+dependencies[] = taxonomy_edge
+dependencies[] = panels_hash_cache
+dependencies[] = views_ui
+dependencies[] = ding_oc_latto_frontend
+dependencies[] = opening_hours
+dependencies[] = menu_attributes
+dependencies[] = diff
+dependencies[] = module_filter
+dependencies[] = ting_recommendation_panes
+dependencies[] = sms_service
+dependencies[] = advanced_help
+dependencies[] = alma
+dependencies[] = git_deploy
+dependencies[] = webform
+dependencies[] = easysite_import
+
 files[] = ding2.profile
