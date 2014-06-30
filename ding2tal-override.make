@@ -222,4 +222,4 @@ projects[ting_infomedia][download][url] = "https://github.com/odensecentralbibli
 projects[ding2][type] = "profile"
 projects[ding2][download][type] = "git"
 projects[ding2][download][url] = "git@github.com:odensecentralbibliotek/ding2.git"
-projects[ding2][patch][] = "https://raw.github.com/odensecentralbibliotek/makefiles/update/ding2.patch"
+projects[ding2][patch][] = "https://raw.github.com/odensecentralbibliotek/makefiles/master/ding2.patch"
