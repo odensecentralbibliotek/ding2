@@ -2,7 +2,7 @@ projects[variable][subdir] = "contrib"
 projects[variable][version] = "2.2"
 
 projects[wysiwyg][subdir] = "contrib"
-projects[wysiwyg][version] = "2.2"
+projects[wysiwyg][version] = "2.x-dev"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
