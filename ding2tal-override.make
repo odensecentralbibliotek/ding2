@@ -15,6 +15,7 @@ projects[ctools][version] = "1.4"
 
 projects[panels][subdir] = "contrib"
 projects[panels][version] = "3.3"
+projects[panels][patch][] = "https://www.drupal.org/files/issues/panels-array_diff_assoc-1762290-22.patch"
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.8"
