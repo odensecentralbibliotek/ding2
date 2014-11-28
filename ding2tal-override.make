@@ -19,6 +19,7 @@ projects[panels][patch][] = "https://www.drupal.org/files/issues/panels-array_di
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.8"
+projects[views][patch][] = "https://www.drupal.org/files/issues/1024832_relationship_node_term_data_1.patch"
 
 projects[features][subdir] = "contrib"
 projects[features][version] = "2.0-beta2"
